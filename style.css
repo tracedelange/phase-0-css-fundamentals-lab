@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+section#featured-property {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+section#featured-property p {
+
+  padding-top: 10x;
+  padding-bottom: 10px;
+}
+
+
+figure {
+
+  text-align: center;
+  font-size: smaller;
+}
+
+header nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: tomato;
+
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+section#details div {
+  text-align: center;
+  float: left;
+  width: 25%;
+  background-color: tomato;
+}
